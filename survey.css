@@ -1,0 +1,67 @@
+#main {
+  /*background-color: #736CA1;*/
+  background-image: url(https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2019/04/coding.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px 20px 10px 20px;
+  font-family: sans-serif;
+  color: white;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  font-family: monospace;
+}
+#description {
+  font-size: 18px;
+  text-align: center;
+  font-family: sans-serif;
+}
+#survey-form {
+  background-color: #488AC7;
+  padding: 10px 20px 10px 20px;
+  font-size: 18px;
+  max-width: 700px;
+  width: 95%
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  line-height: 30px;
+}
+#name-label {
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+}
+#email-label {
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+}
+#number-label {
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+}
+#role {
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+}
+#feature {
+  width: 95%;
+  height: 40px;
+  border-radius: 10px;
+}
+#opinion {
+  width: 95%;
+  height: 80px;
+  border-radius: 0px;
+}
+#submit {
+  width: 96%;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #FFDB58;
+}
